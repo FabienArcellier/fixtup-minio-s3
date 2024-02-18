@@ -1,5 +1,22 @@
 fixtup-minio-s3
-===================================
+===============
+
+
+.. image:: https://img.shields.io/pypi/v/fixtup-minio-s3.svg?label=Version
+    :target: https://pypi.org/project/fixtup-minio-s3/
+
+.. image:: https://github.com/FabienArcellier/fixtup-minio-s3/actions/workflows/main.yml/badge.svg
+    :target: https://github.com/FabienArcellier/fixtup-minio-s3/actions/workflows/main.yml
+
+.. image:: https://readthedocs.org/projects/fixtup-minio-s3/badge/?version=latest
+    :target: https://fixtup-minio-s3.readthedocs.io/en/latest/?badge=latest
+
+.. image:: https://img.shields.io/badge/discord-fixtup-5865F2?logo=discord&logoColor=white
+    :target: https://discord.gg/nMn9YPRGSY
+
+.. image:: https://img.shields.io/badge/license-MIT-007EC7.svg
+    :target: https://github.com/FabienArcellier/fixtup-minio-s3/blob/master/LICENSE
+
 
 The ``fixtup-minio-s3`` plugin allows you to download the files of a fixture into an s3 bucket managed by minio
 and run the integration tests on an s3 bucket.

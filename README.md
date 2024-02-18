@@ -1,6 +1,11 @@
 ## fixtup-minio-s3
 
-[![ci](https://github.com/FabienArcellier/fixtup-minio-s3/actions/workflows/main.yml/badge.svg)](https://github.com/FabienArcellier/fixtup-minio-s3/actions/workflows/main.yml)
+[![PyPi](https://img.shields.io/pypi/v/fixtup-minio-s3.svg?label=Version)](https://pypi.org/project/fixtup-minio-s3/)
+[![Python](https://img.shields.io/pypi/pyversions/fixtup-minio-s3.svg)](https://pypi.org/project/alfred-cli/)
+[![CI](https://github.com/FabienArcellier/fixtup-minio-s3/actions/workflows/main.yml/badge.svg)](https://github.com/FabienArcellier/fixtup-minio-s3/actions/workflows/ci.yml)
+[![Documentation Status](https://readthedocs.org/projects/fixtup-minio-s3/badge/?version=latest)](https://fixtup-minio-s3.readthedocs.io/en/latest/?badge=latest)
+[![Discord](https://img.shields.io/badge/discord-fixtup-5865F2?logo=discord&logoColor=white)](https://discord.gg/nMn9YPRGSY)
+[![License](https://img.shields.io/badge/license-MIT-007EC7.svg)](LICENSE)
 
 > NOT READY YET, WORK IN PROGRESS !!!
 

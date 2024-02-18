@@ -7,7 +7,6 @@ import alfred
 import click
 import toml
 from click import UsageError, Choice
-from plumbum.commands.processes import ProcessExecutionError
 
 @alfred.command("publish", help="tag a new release through github action that trigger pypi publication")
 def publish():
