@@ -58,10 +58,18 @@ some of them using the ``copy_ignore`` parameter
       - 'file.svg'
       - '**/*.svg'
 
-
 .. toctree::
    :maxdepth: 1
 
    installation
    getting_started
    api
+
+Links
+-----
+
+* Source code: https://github.com/FabienArcellier/fixtup-minio-s3
+* PyPI Release : https://pypi.org/project/fixtup-minio-s3
+* Documentation : https://fixtup-minio-s3.readthedocs.io/en/latest
+* Chat: https://discord.gg/nMn9YPRGSY
+
